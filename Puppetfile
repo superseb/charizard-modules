@@ -16,4 +16,5 @@ mod 'rvm',
  :git => 'http://github.com/maestrodev/puppet-rvm.git'
 mod 'apache',
  :git => 'http://github.com/puppetlabs/puppetlabs-apache.git'
-
+mod 'wildfly',
+  :git => 'http://github.com/xebia-puppet/xebia-wildfly.git'
