@@ -1,5 +1,5 @@
-mod 'deployit',
-  :git => 'http://github.com/xebia-puppet/xebia-deployit.git'
+mod 'xldeploy',
+  :git => 'http://github.com/xebia-puppet/puppet-xldeploy.git'
 mod 'stdlib',
  :git => 'http://github.com/puppetlabs/puppetlabs-stdlib.git'
 mod 'inifile',
