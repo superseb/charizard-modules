@@ -16,4 +16,5 @@ mod 'rvm',
  :git => 'http://github.com/maestrodev/puppet-rvm.git'
 mod 'apache',
  :git => 'http://github.com/puppetlabs/puppetlabs-apache.git'
-
+mod 'elasticsearch',
+ :git => 'http://github.com/elasticsearch/puppet-elasticsearch.git'
