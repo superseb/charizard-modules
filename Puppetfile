@@ -18,3 +18,5 @@ mod 'apache',
  :git => 'http://github.com/puppetlabs/puppetlabs-apache.git'
 mod 'wildfly',
   :git => 'http://github.com/xebia-puppet/xebia-wildfly.git'
+mod 'gitlab',
+  :git => 'http://github.com/spuder/puppet-gitlab.git'
