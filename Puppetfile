@@ -19,6 +19,7 @@ mod 'apache',
 mod 'wildfly',
   :git => 'http://github.com/xebia-puppet/xebia-wildfly.git'
 mod 'gitlab',
-  :git => 'http://github.com/xebia-puppet/puppet-gitlab.git'
+  :git => 'http://github.com/superseb/puppet-gitlab.git',
+  :branch => 'superseb/external_pgsql_support'
 mod 'postgresql',
  :git => 'http://github.com/puppetlabs/puppetlabs-postgresql.git'
