@@ -20,3 +20,5 @@ mod 'wildfly',
   :git => 'http://github.com/xebia-puppet/xebia-wildfly.git'
 mod 'gitlab',
   :git => 'http://github.com/xebia-puppet/puppet-gitlab.git'
+mod 'postgresql',
+ :git => 'http://github.com/puppetlabs/puppetlabs-postgresql.git'
